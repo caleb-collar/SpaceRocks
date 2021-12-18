@@ -1,5 +1,5 @@
 # SpaceRocks
-Space Rocks is a block breaker game. 🚀🪨
+Space Rocks is a block breaker game. 🔮🪨
 
 <p align="center">
   <img src="https://github.com/Mindstormer-0/SpaceRocks/blob/main/Screenshots/repoTitle.png?raw=true" />
